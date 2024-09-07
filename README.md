@@ -23,7 +23,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lazydev0&show_icons=true&locale=en" alt="lazydev0" />
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazydev0&" alt="lazydev0" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lazydev0&" alt="lazydev0" />
 
 <br>
-<a href='https://ko-fi.com/L3L7128ZZ1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/L3L7128ZZ1' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
