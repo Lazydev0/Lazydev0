@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Zaki Sangam</h1>
 <h3 align="center">A passionate Ui/Ux designer and frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazydev0&label=Profile%20views&color=0e75b6&style=flat" alt="lazydev0" /> </p>
+
 <p><img align="right" height="200" src="https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-programmers-code-the-website-from-the-command-line-flat-vector-illustration-png-image_878368.jpg"></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazydev0&label=Profile%20views&color=0e75b6&style=flat" alt="lazydev0" /> </p>
 
 - 🌱 I’m currently learning **Flutter , Vue**
 
