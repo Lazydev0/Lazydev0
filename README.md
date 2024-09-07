@@ -27,4 +27,4 @@
 
 
 <p><h3 align="left">Support:</h3></p>
-<p><a href="https://ko-fi.com/zakisangam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zakisangam" /></a></p><br><br>
+<a href='https://ko-fi.com/L3L7128ZZ1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
