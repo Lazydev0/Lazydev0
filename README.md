@@ -1,4 +1,3 @@
-<img align="center"  src="https://github.com/Lazydev0/Dots-0_0/blob/trunk/Pictures/Wallpaper_lib/doodle.jpg" />
 <img align="center"  src="https://images7.alphacoders.com/135/thumb-1920-1354305.jpeg" />
 
 
