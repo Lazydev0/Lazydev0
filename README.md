@@ -1,4 +1,4 @@
-<img align="center"  src="https://github.com/Lazydev0/Dots-0_0/blob/trunk/Pictures/Extras/Chill_guy.png" />
+<img align="center"  src="https://github.com/Lazydev0/Dots-0_0/blob/trunk/Pictures/Extras/Groot.png" />
 
 
 <h1 align="center">Hi 👋, I'm Zaki Sangam</h1>
