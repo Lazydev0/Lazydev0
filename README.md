@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Webflow.svg" height="20" />
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Framer.svg" height="20" />
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Bash.svg" height="20" />
-  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Solona.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Solana.svg" height="20" />
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Rust.svg" height="20" />
   
 </p>
