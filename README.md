@@ -6,17 +6,21 @@
 <p align="center">Design ✦ Web ✦ Blockchain ✦ Linux</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains-Mono&size=20&duration=2500&pause=800&color=FAB387&center=true&vCenter=true&width=400&lines=Currently+,+Building+Hustlr;Crafting+clean+UIs;Exploring+Blockchain;">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=2500&pause=800&color=FAB387&center=true&vCenter=true&width=400&lines=Currently+,+Building+Hustlr;Crafting+clean+Uis;Exploring+Blockchain;">
 </p>
 
-<p align="center">
-  <strong>🛠 Stack:</strong> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Arch.svg" height="20" />
 
+#### <div align="center"> 🛠 Stack and Stats </div>
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Arch.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Svelte.svg" height="20" />
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Figma.svg" height="20" />
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Webflow.svg" height="20" />
-
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Framer.svg" height="20" />
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Bash.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Solona.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Rust.svg" height="20" />
   
 </p>
 
