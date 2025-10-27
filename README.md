@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Banners/Banner.gif" width="800" height="200" alt="Zaki Sangam Banner" />
 </div>
 
-<h2 align="center">Hello, I am Zaki Sangam</h2>
+<h2 align="center">Hola, I am Zaki Sangam</h2>
 <p align="center">Design ✦ Web ✦ Blockchain ✦ Linux</p>
 
 <p align="center">
