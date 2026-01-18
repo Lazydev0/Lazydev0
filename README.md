@@ -12,11 +12,14 @@
   <strong>🛠 Stack:</strong> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Arch.svg" height="20" />
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Figma.svg" height="20" />
-  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Webflow.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Rust.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Framer.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Css.svg" height="20" />
+  <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Svelte.svg" height="20" />
   <img src="https://raw.githubusercontent.com/Lazydev0/Lazydev0/trunk/Vectors/Bash.svg" height="20" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Lazydev0&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lazydev0&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Lazydev0&show_icons=true&theme=github_dark"/>
 </p>
+
