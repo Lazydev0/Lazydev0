@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-  Reach me at <a href="mailto:sangamzaki@gmail.com">sangamzaki@gmail.com</a>
+  📧 Email: sangamzaki@gmail.com
 </p>
