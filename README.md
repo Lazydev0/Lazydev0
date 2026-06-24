@@ -23,3 +23,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Lazydev0&show_icons=true&theme=github_dark"/>
 </p>
 
+<p align="center">
+  Reach me at <a href="mailto:sangamzaki@gmail.com">sangamzaki@gmail.com</a>
+</p>
